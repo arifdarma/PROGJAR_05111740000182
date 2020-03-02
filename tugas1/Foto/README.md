@@ -4,13 +4,13 @@ Kondisi awal server dengan port 3100,3101,3102 menyala
 ![Kondisi Awal](awal.png)
 
 Client mengirimkan pesan ke server port 3100
-![3100](ke port 31000.png)
+![3100](ke_port_31000.png)
 
 Client mengirimkan pesan ke server port 3101
-![3101](ke port 31001.png)
+![3101](ke_port_31001.png)
 
 Client mengirimkan pesan ke server port 3102
-![3101](ke port 31002.png)
+![3101](ke_port_31002.png)
 
 ### Server dijalankan, client mencoba untuk mengirimkan file
 Kondisi awal server
