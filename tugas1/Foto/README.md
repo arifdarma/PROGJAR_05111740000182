@@ -19,7 +19,7 @@ Kondisi awal server
 
 Client mengirimkan file ke server
 
-![client_1a](server_waiting_1a.png)
+![client_1a](client_send_1a.png)
 
 Server setelah mendapatkan kiriman file
 
