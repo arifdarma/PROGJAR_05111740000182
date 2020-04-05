@@ -97,7 +97,13 @@ class ChatClient:
     def logout(self):
         if(self.tokenid==""):
             return "Error, not authorized"
-        self.tokenid=""
+        string = "logout {} \r\n".format(self.tokenid)
+        result = self.sendstring(string)
+        if result['status'] == 'OK':
+            self.tokenid = ""
+            return "Logout success!"
+        else:
+            return "Error, {}".format(result['message'])
 
 if __name__=="__main__":
     cc = ChatClient()
