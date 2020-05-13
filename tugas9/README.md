@@ -11,7 +11,7 @@
   ![3](foto/asyn_konkurensi_1.png)
   ![4](foto/asyn_konkurensi_5.png)
   ![5](foto/asyn_konkurensi_10.png)
-  - Thread Server
+  - Thread Server</br>
   ![6](foto/thread_konkurensi_1.png)
   ![7](foto/thread_konkurensi_5.png)
 - Tabel hasil ujicoba
