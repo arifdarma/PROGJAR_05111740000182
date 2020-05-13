@@ -7,7 +7,7 @@
   ![2](foto/jalankan_thread.png)
 
 - Ujicobalah dengan apache benchmark untuk 1000 request dan konkurensi yang bervariasi  
-  - Server Async
+  - Server Async</br>
   ![3](foto/asyn_konkurensi_1.png)
   ![4](foto/asyn_konkurensi_5.png)
   ![5](foto/asyn_konkurensi_10.png)
