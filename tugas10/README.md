@@ -18,7 +18,7 @@
   ![9](foto/thread_konkurensi_1.png)
   ![10](foto/thread_konkurensi_5.png)
 - Tabel hasil ujicoba
-  - [Server_async_http.py](server_async_http.py)  
+  - [Async_server.py](../tugas10/async_server.py)  
     | No test | Concurrency level | Time taken for test (seconds) | Complete request | Failed request | Total transferred (bytes) | Request per second | Time per request (ms) | Transfer rate (Kbytes/sec) |
     |---------|-------------------|-------------------------------|------------------|----------------|---------------------------|--------------------|-----------------------|----------------------------|
     | 1       | 1                 | 3.155                         | 1000             | 238              | 92964                    | 316.95            | 3.155                 | 28.77                     |
