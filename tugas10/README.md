@@ -7,7 +7,7 @@
 - Jalankan browser, akseslah `http://localhost:44444/page.html`  
 ![4](foto/browser.png)  
 - Lihatlah di log program, bahwa setiap request akan dilayani oleh backend yang bergantian  
-![5_1](foto/log_async-server.png)  
+![5_1](foto/log_async_server.png)  
 ![5_2](foto/log_lb.png)  
 - Lakukan performance test, bandingkan penggunaan __load balancer__  
   - Server Async</br>
